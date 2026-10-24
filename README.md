@@ -1,42 +1,16 @@
-# 白泽明理 · Formal eXplainable AI
+# 白泽明理 Baize AI
 
-帮助企业借助 AI 大力提效，重塑经营流程。
+企业 AI Native 转型：咨询、培训、FDE 驻场开发、工具开发。
 
-[官网](https://fxai.ai) · [API](https://api.fxai.ai) · [联系](mailto:contacts@fxai.ai)
+[官网](https://fxai.ai) · [服务](https://fxai.ai/services/) · [Baize Bot](https://github.com/SmartStudio/baize-bot) · [联系](mailto:contacts@fxai.ai)
 
 杭州 / 远程
 
 ## 我们做什么
 
-白泽明理（Formal eXplainable AI）是企业 AI 提效与经营流程重塑咨询。
+- AI 转型咨询：访谈各部门，排出改造优先级和验收口径。
+- 企业 AI 培训：按岗位授课，用学员自己的真实任务练习，课后留下可复用的 Skill。
+- FDE 驻场开发：工程师进团队，把 Agent 接进 CRM、ERP、HR，同步改造研发流程。
+- 工具开发与产品支持：按业务需要开发内部工具，上线后持续维护。
 
-不是卖模型，也不是让团队各自装一个 Copilot。先把 AI 稳定、可控、可审计地接入经营，再把研发和运营工程化，最后把「想法到产品」做成可验收、可复用的组织能力。
-
-原则：先明理，再落地。先边界，再自动化。Explain / Verify / Adopt。
-
-## 路径
-
-诊断 → 接入 → 工程 → 交付 → 沉淀
-
-## 服务
-
-**接入 Access**
-- Codex 中转站：稳定、可控、可审计的团队入口，不用各自找账号
-- LLM API 网关：鉴权、路由、限流、成本与审计的统一入口
-
-**工程 Engineering**
-- AI 研发流：把 AI 编程纳入需求、实现、测试、评审、文档
-- Loop Engineering：先自查再交付，每一轮可验证
-
-**交付 Delivery**
-- 想法到产品的端到端路径：业务目标、AI 能力、执行节奏对齐，每一步可验收
-
-## 不是什么
-
-- 不卖模型
-- 不做工具采购清单
-- 不把个人尝鲜当成组织落地
-
-## 预约
-
-[预约 AI 落地诊断](https://fxai.ai/contact/) · contacts@fxai.ai
+第一步是 30 分钟免费诊断：https://fxai.ai/contact/ · contacts@fxai.ai
